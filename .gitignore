@@ -1,0 +1,6 @@
+# JiaShiDuo/
+unpackage/
+.DS_Store
+.hbuilderx/
+node_modules
+uni_modules
